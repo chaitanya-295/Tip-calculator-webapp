@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Tip Calculator** is a beginner-friendly web application that helps users quickly calculate the total bill amount including tip. It provides a clean and modern interface, smooth animations, and responsive design for all devices.
+The **Tip Calculator** is a beginner-friendly web application that helps users quickly calculate the total bill amount, including tip. It provides a clean and modern interface, smooth animations, and a responsive design for all devices.
 
 ---
 
@@ -61,13 +61,13 @@ Tip-Calculator/
 
 ## 📸 Screenshot
 
-*(Add screenshot here for better presentation)*
+![Tip Calculator Web App](Screenshot.png)
 
 ---
 
 ## 🌐 Live Demo
 
-*(Add GitHub Pages link here after deployment)*
+https://chaitanya-295.github.io/Tip-calculator-webapp/
 
 ---
 
